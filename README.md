@@ -1,4 +1,7 @@
 VirtualPiano
 ============
 
-Project for Scripting Languages discipline at IFPB
+This is not mine
+
+credits:
+https://github.com/livioribeiro/VirtualPiano/tree/master
